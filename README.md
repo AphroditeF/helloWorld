@@ -1,2 +1,3 @@
 # hiWorld
-first attempt to say "Hello World!"
+first attempt to say "Hi World!"
+
